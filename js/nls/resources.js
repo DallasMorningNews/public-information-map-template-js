@@ -32,8 +32,8 @@ define({
             flSettingsInfo: "Return results matching a photo's title, description or tags.",
             twSettingsInfo: "See what’s happening right now.",
             advancedOperators: "Tip: use <a target=\"_blank\" href=\"https://support.twitter.com/articles/71577-using-advanced-search\">operators</a> for creating advanced searches.",
-            tweetsFilteredBy: "tweets filtered by:",
-            photosFilteredBy: "photos filtered by:",
+            tweetsFilteredBy: "tweets filtered by: Ivan",
+            photosFilteredBy: "photos filtered by: Ivan Mejia",
             twitterAccountStatus: "Enable the Twitter layer to see your status."
         },
         general: {

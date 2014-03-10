@@ -4,11 +4,12 @@ define([], function() {
     //and url parameters.
     var defaults = {
         "appid": "",
-        "webmap": "df8bcc10430f48878b01c96e907a1fc3",
+        "webmap": "6f9fdc83ce44b6985115e4bd73cacd",
         "oauthappid": null,
         //Enter the url to the proxy if needed by the applcation. See the "Using the proxy page" help topic for details
         //http://developers.arcgis.com/en/javascript/jshelp/ags_proxy.html
         "proxyurl": "",
+ 
         //Example of a template specific property. If your template had several color schemes
         //you could define the default here and setup configuration settings to allow users to choose a different
         //color theme.
@@ -32,7 +33,7 @@ define([], function() {
         "defaultBasemap": "topo",
         "nextBasemap": "hybrid",
         "notesLayer": {
-            "id": "mapNotes_7330"
+           // "id": "mapNotes_7330"
         },
         "hideNotesLayerPopups":true,
         "enableInstagram":true,
@@ -40,9 +41,14 @@ define([], function() {
         "enableFlickr":true,
         "flickrVisible":true,
         "flickrSearch":"ivan mejia",
+        "flickrRange": "today",
+        "showYouTube":"true",
+        "youtubeSearch": "ivan",
+        "youtubeRange":"today",
         "enableTwitter":true,
         "twitterVisible":true,
-        "twitterSearch":"ivan",
+        "showTwitterConfig":"true",
+        "twitterSearch":"ivan|brandon",
         "enableWebcams":true,
         "webcamsVisible":false,
         "bitlyLogin": "esri",
