@@ -15,7 +15,7 @@ define([], function() {
         //color theme.
         "title":"Wylie Social Media Map",
         "summary":"",
-        "defaultPanel":"map",
+        "defaultPanel":"layers",
         "enableSummary":false,
         "enableTitle":true,
         "enableLegendPanel": true,
