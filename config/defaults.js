@@ -4,7 +4,7 @@ define([], function() {
     //and url parameters.
     var defaults = {
         "appid": "",
-        "webmap": "6f9fdc83ce44b6985115e4bd73cacd",
+        "webmap": "39cc515dbb144ab0a6812dada4f48d07",
         "oauthappid": null,
         //Enter the url to the proxy if needed by the applcation. See the "Using the proxy page" help topic for details
         //http://developers.arcgis.com/en/javascript/jshelp/ags_proxy.html
