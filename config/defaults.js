@@ -12,7 +12,7 @@ define([], function() {
         //Example of a template specific property. If your template had several color schemes
         //you could define the default here and setup configuration settings to allow users to choose a different
         //color theme.
-        "title":"",
+        "title":"Wylie Social Media Map",
         "summary":"",
         "defaultPanel":"legend",
         "enableSummary":true,
@@ -38,11 +38,11 @@ define([], function() {
         "enableInstagram":true,
         "instagramVisible":false,
         "enableFlickr":true,
-        "flickrVisible":false,
-        "flickrSearch":"",
+        "flickrVisible":true,
+        "flickrSearch":"ivan mejia",
         "enableTwitter":true,
-        "twitterVisible":false,
-        "twitterSearch":"",
+        "twitterVisible":true,
+        "twitterSearch":"ivan",
         "enableWebcams":true,
         "webcamsVisible":false,
         "bitlyLogin": "esri",
