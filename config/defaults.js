@@ -48,7 +48,7 @@ define([], function() {
         "enableTwitter":true,
         "twitterVisible":true,
         "showTwitterConfig":"true",
-        "twitterSearch":"ivan OR  @ivan_mejia OR murder OR kill",
+        "twitterSearch":"ivan OR  @ivan_mejia",
         "enableWebcams":true,
         "webcamsVisible":false,
         "bitlyLogin": "esri",
