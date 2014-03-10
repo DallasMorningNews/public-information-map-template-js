@@ -48,7 +48,7 @@ define([], function() {
         "enableTwitter":true,
         "twitterVisible":true,
         "showTwitterConfig":"true",
-        "twitterSearch":"ivan|brandon",
+        "twitterSearch":"ivan OR brandon",
         "enableWebcams":true,
         "webcamsVisible":false,
         "bitlyLogin": "esri",
